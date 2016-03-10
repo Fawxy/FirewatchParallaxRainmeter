@@ -1,0 +1,44 @@
+//********************************************************//
+Sorry Cheesewoo that I am 5 or so mounth late with this,
+not been on DevientArt for a while.
+Regards,
+RainbowHooves
+//********************************************************//
+!!!! IMPORTANT !!!! You also need "Launcher.ini" !!!!
+//********************************************************//
+Place this (Apps.txt) in a folder
+(..//Rainmeter/Skins/Launcher)
+Along with Launcher.ini
+//********************************************************//
+
+[Variables]
+
+App1=Explorer
+App1Path=C:\Windows\explorer.exe
+
+App2=Firefox
+App2Path=C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+
+App3=Steam
+App3Path=D:\Program Files (x86)\Steam\Steam.exe
+
+App4=Spotify
+App4Path=%APPDATA%\Spotify\Spotify.exe
+
+App5=
+App5Path=
+
+App6=
+App6Path=
+
+App7=
+App7Path=
+
+App8=
+App8Path=
+
+App9=
+App9Path=
+
+App10=
+App10Path=
