@@ -41,9 +41,9 @@ BackCircleColor=255,255,255,255
 ; ANGLES: In radians, you can also use Rad(<input value in deg>)
 ; NOTE: VALUES ARE ALWAYS CLOCKWISE, STARTING FROM 0 WHICH FACES RIGHT
 ; What angle does the lowest freq start at?
-AngleStart=(Rad(163))
+AngleStart=(Rad(0))
 ; How much angle the items fill, from 0 - 360 in rad.
-AngleTotal=(Rad(230))
+AngleTotal=(Rad(360))
 ; Whether the AngleTotal and AngleStart affects the BackCircle, if 0 then circle will always be full
 AnglesAffectBackCircle=1
 ;
