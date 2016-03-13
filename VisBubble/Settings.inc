@@ -25,7 +25,7 @@ Player=CAD
 ; Width of shapes/lines/bars
 ItemWidth=4
 ; The size of the circle, to make it into an ellipse just give RadiusY a number
-Radius=80
+Radius=78
 RadiusY=#Radius#
 ; The shapes extrude at a ^2 pace (You can set higher for ^n)
 ; ie. it's "more difficult" for the shapes to extrude

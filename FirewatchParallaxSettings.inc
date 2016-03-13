@@ -32,10 +32,10 @@ ThemeDisplayHeight=1079
 ItemColor=FFFFFF
 
 ; This is to hide the visualizer when no music player is playing
-HideWhenNotPlaying=1
+HideWhenNotPlaying=0
 
 ; Hide the visualizer when nothing is playing
-HideWhenVolumeZero=1
+HideWhenVolumeZero=0
 
 ; Number of bars
 NumOfItems=96
