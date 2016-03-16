@@ -42,3 +42,14 @@ NumOfItems=96
 
 ; Length of the bar
 VariationMax=50
+
+
+; TIME REACTIVE SETTINGS
+
+; To find out your location ID  browse or search for your city from http://weather.yahoo.com/.
+; The location ID is in the URL for the forecast page for that city.
+; You can also get the Location ID by entering your zip code on the home page.
+; For example, if you search for Los Angeles on the Weather home page,
+; the forecast page for that city is http://weather.yahoo.com/united-states/california/los-angeles-2442047/.
+; The Location ID is 2442047
+LocationID=26351604
